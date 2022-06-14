@@ -8,7 +8,7 @@
 
 ## Dataset 📔
 
-[Kaggle link: Telco Customer Churn](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data)
+[Kaggle link: Telco Customer Churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 
 [Github link: Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d/tree/master/data)
 
