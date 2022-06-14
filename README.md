@@ -3,8 +3,14 @@
 > **`Note`**: Use [**nbviewer**](https://nbviewer.org/github/Pegah-Ardehkhani/Customer-Churn-Prediction/blob/main/Telco%20Customer%20Churn%20Prediction%20and%20Analysis.ipynb) (recommended) or google colab in order to view interactive plotly graphs. You can see all the codes and the outputs in nbviwer without running the whole code again.
 
 <p align="center">
-  <img width="600" height="300" src="https://www.pointillist.com/wp-content/uploads/2017/11/Running-4-the-Exit-2-844x422.png">
+  <img width="600" height="300" src="https://blog.accessdevelopment.com/hs-fs/hubfs/magnet%20customers.gif?width=463&name=magnet%20customers.gif">
 </p>
+
+## Dataset 📔
+
+[Kaggle link: Telco Customer Churn](https://www.kaggle.com/bhartiprasad17/customer-churn-prediction/data)
+
+[Github link: Telco Customer Churn](https://github.com/IBM/telco-customer-churn-on-icp4d/tree/master/data)
 
 ## Objectives 🏆
 
@@ -19,20 +25,29 @@ In this projects below questions will be answered:
 * [x] Which model is the best for predicting churn?
 
 ## Project's Table of Contents ✍️
+<details>
+  <summary>Click to expand!</summary>
 
-- [1. Problem statement](#Problem_Statement)
-    - [1.1. Introduction](#Introduction)
-    - [1.2. Obejctives](#Obejctives)
-    - [1.3. Dataset Features](#Dataset_Features)
-- [2. Import Libraries and Data](#Import_Libraries_and_Data)
-- [3. Handling Missing Values](#Handling_Missing_Values)
-- [4. Data Analysis and Visualization](#Data_Analysis_and_Visualization)
-- [5. Outlier Detection](#Outlier_Detection)
-- [6. Check for Rare Categories](#Check_for_Rare_Categories)
-- [7. Categorical Variables Encoding](#Categorical_Variables_Encoding)
-- [8. Balance Data](#Balance_Data)
-- [9. Dataset Splitting](#Dataset_Splitting)
-- [10. Feature Scaling](#Feature_Scaling)
-- [11. Modeling and Parameter Optimization](#Modeling_and_Parameter_Optimization)
-- [12. Feature Importance](#Feature_Importance)
-- [13. Results](#Results)
+1. Problem statement
+2. Import Libraries and Data
+3. Handling Missing Values
+4. Data Analysis and Visualization
+5. Outlier Detection
+6. Check for Rare Categories
+7. Categorical Variables Encoding
+8. Balance Data
+9. Dataset Splitting
+10. Feature Scaling
+11. Modeling and Parameter Optimization
+12. Feature Importance
+13. Results
+</details>
+
+## Libraries 📚
+
+**application** | **libraries**
+--- | --- 
+handle table-like data and matrices | pandas, numpy 
+visualisation | plotly, seaborn, missingno 
+classification models | sklearn, xgboost, mlens 
+balance data | imblearn 
