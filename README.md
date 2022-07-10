@@ -14,7 +14,7 @@
 
 ## Objectives 🏆
 
-In this projects below questions will be answered:
+In this project, these questions will be answered:
 
 * [x] What's the % of Customers Churn and customers that keep in with the active services?
 * [x] Is there any patterns in Customers Churn based on the gender?
